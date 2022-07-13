@@ -8,4 +8,4 @@ To get started developing right away:
 - install all project dependencies with `npm install`
 - start the development server with `npm start`
 
-![alt text](https://ibb.co/xHWQLCv)
+![alt text](https://i.ibb.co/SrbpysT/admin-panel.png)
